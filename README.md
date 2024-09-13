@@ -11,7 +11,7 @@
   <li><strong>Iglesia Bíblioteca Misionera</strong></li>
     <p>project for a missionary library in San Justo</p>
     <ul>
-      <li>repository link: https://github.com/MarianoMaldonado-dev/EAM-Project/tree/church</li>
+      <li>repository link: https://github.com/MarianoMaldonado-dev/EAM-Project/tree/misclick</li>
       <li>page link: </li>
     </ul>
 
