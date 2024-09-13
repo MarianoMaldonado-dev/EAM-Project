@@ -13,12 +13,12 @@
     <ul>
       <li>repository link: https://github.com/MarianoMaldonado-dev/EAM-Project/tree/church</li>
       <li>page link: </li>
-    <ul>
-</ul>
-<ul>
+    </ul>
+
+
   <li><strong>Misclick</strong></li>
       <p>This repository was created with the objective of practicing our skills in Git and GitHub</p>
       <ul>
         <li>https://github.com/MarianoMaldonado-dev/EAM-Project/blob/misclick/README.md</li>
-      <ul>
+      </ul>
 </ul>
