@@ -11,7 +11,7 @@
   <li><strong>Iglesia Bíblioteca Misionera</strong></li>
     <p>project for a missionary library in San Justo</p>
     <ul>
-      <li>repository link: https://github.com/MarianoMaldonado-dev/EAM-Project/tree/misclick</li>
+      <li>repository link: https://github.com/MarianoMaldonado-dev/EAM-Project/tree/church</li>
       <li>page link: </li>
     </ul>
 
@@ -19,6 +19,6 @@
   <li><strong>Misclick</strong></li>
       <p>This repository was created with the objective of practicing our skills in Git and GitHub</p>
       <ul>
-        <li>https://github.com/MarianoMaldonado-dev/EAM-Project/blob/misclick/README.md</li>
+        <li>repository link: https://github.com/MarianoMaldonado-dev/EAM-Project/blob/misclick/</li>
       </ul>
 </ul>
