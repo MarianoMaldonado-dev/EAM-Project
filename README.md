@@ -1,9 +1,9 @@
 # EAM-Project
-The EAM-Project repository was created with the aim of publishing projects as a team of three great friends: 
+The EAM-Project repository was created with the aim of publishing projects as a team of three great friends, to put our knowledge into practice, encourage collaborative work, and implement good practices.
+##team members:
 - Mariano https://github.com/MarianoMaldonado-dev
 - Edgardo https://github.com/echigardo
 - Anthony https://github.com/anthonybanion
-To put our knowledge into practice, encourage collaborative work, and implement good practices.
 
 #list of projects
 ##Iglesia Bíblioteca Misionera
