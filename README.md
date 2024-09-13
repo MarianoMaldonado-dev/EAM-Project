@@ -8,15 +8,17 @@
 </ul>
 <h2>list of projects</h2>
 <ul>
-  <li>Iglesia Bíblioteca Misionera</li>
+  <li><strong>Iglesia Bíblioteca Misionera</strong></li>
     <p>project for a missionary library in San Justo</p>
     <ul>
       <li>repository link: https://github.com/MarianoMaldonado-dev/EAM-Project/tree/church</li>
       <li>page link: </li>
     <ul>
-  <li>Misclick</li>
+</ul>
+<ul>
+  <li><strong>Misclick</strong></li>
       <p>This repository was created with the objective of practicing our skills in Git and GitHub</p>
       <ul>
-      <li>https://github.com/MarianoMaldonado-dev/EAM-Project/blob/misclick/README.md</li>
+        <li>https://github.com/MarianoMaldonado-dev/EAM-Project/blob/misclick/README.md</li>
       <ul>
 </ul>
